@@ -13,8 +13,8 @@ This repository serves as my **GitHub profile landing page**, providing a concis
 
 - **Bachelor of Science in Electrical Engineering**  
   Harding University - **Cum Laude**
+  - **Walton International Scholarship Program**
   - Minor in Mathematics
-- **Walton International Scholarship Program**
 - **NCEES FE Exam Passed before graduation (NCEES Honors)**
 
 ---
