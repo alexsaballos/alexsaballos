@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Saballos
 
-Electrical Engineer | Computer Scientist | Engineer in Training (EI/EiT)
+Electrical Engineer | Web Developer | Engineer in Training (EI/EiT)
 B.S. Electrical Engineering · Minor in Mathematics
 
 I am an Electrical Engineer with a strong focus on **systems engineering**, **embedded systems**, and **full-stack software development**. My work bridges **hardware, software, and real-world deployment**, with a strong emphasis on correctness, maintainability, and trustworthiness.
