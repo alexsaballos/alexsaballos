@@ -135,7 +135,7 @@ This repository serves as my **GitHub profile landing page**, providing a concis
 ## 🔗 Digital Presence
 
 - 🌐 Portfolio: **https://alexsaballos.dev**
-- 💼 LinkedIn / Handshake / GitHub: **alexsaballos**
+- 💼 LinkedIn / Handshake / GitHub /HU Merit Pages: **alexsaballos**
 - 🧾 Verified credentials provided directly by issuing institutions when applicable
 
 ---
