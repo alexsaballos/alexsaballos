@@ -50,8 +50,8 @@ This repository serves as my **GitHub profile landing page**, providing a concis
 - **Languages:** C, C++, PHP, JavaScript, TypeScript, Kotlin
 - **Frontend:** React, Astro, TailwindCSS, DaisyUI, Ant Design
 - **Backend:** PHP, REST APIs
-- **Databases:** MySQL / MySQLi
-- **Desktop:** WinUI, HttpClient
+- **Databases:** MySQL
+- **Desktop:** WinUI
 - **Embedded:** PIC Microcontrollers, Raspberry Pi (Raspbian & Arch64), Arduino
 
 ---
@@ -77,7 +77,7 @@ This repository serves as my **GitHub profile landing page**, providing a concis
 
 ### HU Bison Index
 - Similar architecture to HU Remembers
-- Implemented **Ant Design** and dynamic MySQLi querying
+- Implemented **Ant Design** and dynamic MySQL querying
 
 ### Directus Integrations
 - CMS instances tailored for non-technical users (librarians)
