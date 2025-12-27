@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex Saballos
+# 👋 Hi, I'm Alexander Saballos
 
 Electrical Engineer | Web Developer | Engineer in Training (EI/EiT)
 B.S. Electrical Engineering · Minor in Mathematics
