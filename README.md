@@ -10,4 +10,4 @@ I design and implement embedded and automation systems with an emphasis on power
 - Automation & control systems
 - Software tools and infrastructure supporting physical systems
 
-More details and project breakdowns on my Portfolio: <i>https://alexsaballos.dev</i>
+More details and project breakdowns on my Portfolio: <i>[https://alexsaballos.dev/en/](https://alexsaballos.dev/en/)</i>
